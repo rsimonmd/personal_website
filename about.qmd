@@ -1,0 +1,32 @@
+---
+title: "A propos"
+image: inst/img/avatar.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/raphael-simon-5b1123111/"
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/rplsmn"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/rsimonmd"
+    - text: Email
+      url: "mailto:raphael.simon.contact+site@gmail.com"
+    - text: Blog
+      url: "blog.html"
+    - text: CV
+      url: "cv.pdf"
+comments: false
+---
+
+::: {.column-page}
+
+## Bio
+
+Médecin de santé publique, chef de projet classification et financement hospitalier.
+
+:::

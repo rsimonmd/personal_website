@@ -1,0 +1,13 @@
+/* css styles */
+
+.navbar-title{
+    background-image: url(inst/img/astronaut.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: transparent;
+    overflow: hidden;
+}
+
+.quarto-dark .navbar{
+    border-style: hidden
+}

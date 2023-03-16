@@ -1,0 +1,31 @@
+# [[redirects]]
+#   from = "/orcid"
+#   to = "https://orcid.org/0000-0003-2402-304X"
+
+[[redirects]]
+  from = "/github"
+  to = "https://github.com/rsimonmd"
+
+[[redirects]]
+  from = "/linkedin"
+  to = "https://www.linkedin.com/in/raphael-simon-5b1123111/"
+
+# [[redirects]]
+#   from = "/researchgate"
+#   to = "https://www.researchgate.net/profile/Michael_Mahoney13"
+
+[[redirects]]
+  from = "/twitter"
+  to = "https://www.twitter.com/rplsmn"
+
+# [[redirects]]
+#   from = "/cv"
+#   to = "/cv.pdf"
+
+# [[redirects]]
+#   from = "/resume"
+#   to = "/resume.pdf"
+
+# [[redirects]]
+#   from = "/quotes"
+#   to = "/quotes/index.html"
