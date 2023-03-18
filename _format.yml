@@ -7,6 +7,6 @@ format:
       dark: [cyborg, _variables-cyborg.scss, _bootswatch-cyborg.scss]
     css: styles.css
     smooth-scroll: true
-    # link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
     
