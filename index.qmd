@@ -18,7 +18,7 @@ about:
   template: trestles
   image: inst/img/thought.jpg
   image-shape: round
-  image-width: 8em
+  image-width: 5em
   links:
     - text: LinkedIn
       url: "https://www.linkedin.com/in/raphael-simon-5b1123111/"
@@ -47,6 +47,7 @@ Contactez-moi via les liens ci-contre !
 :::::{.grid}
 ::::{.g-col-12 .g-col-md-6}
 ## Le blog
+
 Cliquez [ici](blog/index.qmd) pour lire les entrées du blog. 
 
 :::{#latest-posts}

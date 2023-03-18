@@ -2,13 +2,15 @@
   {
     "listing": "/blog/index.html",
     "items": [
-      "/blog/posts/20230301_calculette_had/index.html"
+      "/blog/posts/20230301_calculette_had/index.html",
+      "/blog/posts/20230115_nouveaudepart/index.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/blog/posts/20230301_calculette_had/index.html"
+      "/blog/posts/20230301_calculette_had/index.html",
+      "/blog/posts/20230115_nouveaudepart/index.html"
     ]
   }
 ]

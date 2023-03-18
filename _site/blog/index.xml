@@ -18,7 +18,7 @@
 
 
 
-<p>Lors de discussion avec une collègue, nous avons eu besoin d’avoir rapidement de nombreuses combinaisons de MPP MPA IK et d’observer leurs GHT, mais aussi l’inverse : à partir d’un GHT observer les combinaisons possibles de GHPC.</p>
+<p>Lors de discussion avec une collègue, nous avons eu besoin d’avoir rapidement de nombreuses combinaisons de MPP MPA IK et d’observer leurs GHT, mais aussi l’inverse : à partir d’un GHT observer les combinaisons possibles de GHPC. Puisque ma collègue appelait cet outil une “calculette”, j’ai gardé le nom !</p>
 <p>Les données sont entièrement en libre accès sur le site de l’ATIH :</p>
 <ul>
 <li><a href="https://www.atih.sante.fr/guide-methodologique-had-2022">mapping ghpc en ght</a></li>
@@ -230,6 +230,42 @@
   <guid>https://raphaelsimon.fr/blog/posts/20230301_calculette_had/index.html</guid>
   <pubDate>Tue, 28 Feb 2023 23:00:00 GMT</pubDate>
   <media:content url="https://raphaelsimon.fr/blog/posts/20230301_calculette_had/calculator.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Résolutions</title>
+  <link>https://raphaelsimon.fr/blog/posts/20230115_nouveaudepart/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="changement-de-mentalité" class="level2">
+<h2 class="anchored" data-anchor-id="changement-de-mentalité">Changement de mentalité</h2>
+<p>J’essaie de blogger depuis l’âge de 12 ans, soit 2003. A l’époque, j’essayais de convaincre mon ami Alexis (brave homme de m’avoir toléré et continuer à le faire) de monter un blog sur lequel on parlerai de musique. Et pour cause, une révolution arrive : Wordpress débarque et c’est trop facile pour des petits geeks de créer un blog avec !<br>
+Sauf que je n’ai rien écris ou presque, au delà d’une premier jet de premier article.</p>
+<p>Et depuis, régulièrement mon cerveau me relance sur l’idée, soit avec les évolutions de Wordpress, mais aussi à l’époque Skyblog, l’époque MySpace … chaque nouveauté donne envie de se relancer. Mon meilleur effort était en 2017-2018 où <a href="https://ninemonthseightdays.wordpress.com/">je tiens un blog pendant quelques semaines</a> pour documenter mon année à Londres.</p>
+<p>Fin 2018 je découvre R, <code>Rmarkdown</code> et le package <code>{blogdown}</code> et ça relance ma ferveur. Je gagne en autonomie sur le développement web et j’adore ! Plein d’idées de sites, d’applications et surtout de BLOG. Je crée Obvie avec Hugo (brave homme aussi) pour représenter nos projets, dont le principal à ce moment est l’application de suivi des choix de l’ECNi. Du coup, il nous faut <a href="https://www.obvieapps.fr/">un site pour l’accompagner</a>, et surtout un blog pour tous nos articles et idées. Je dev, je dev, il y a tout à apprendre : HTML, CSS, Javascript, faire des tests … C’est chouette, mais on publie peu (pas)</p>
+<p>Juin 2021, ma curiosité est piquée de nouveau car je tombe sur un <a href="https://github.com/hugo-apero/">article par Alison Presmanes Hill</a> qui présente un nouveau patron de blog pour blogdown, qui a l’air a la fois <em>simple</em> et <em>complet</em> : le rêve, je vais pouvoir me concentrer sur l’écriture et moins sur le fignolage du site. Alors j’achète le domaine raphaelsimon.fr, je crée le projet, balancé sur Github, synchronisé avec Netlify, j’écris un premier article et puis je me prépare à publier. Je me dis alors que je ne vais pas assumer d’avoir un seul article, “c’est bien pauvre”. En plus, j’ai gardé la plupart des réglages par défaut du thème, mon site ressemble à tous les sites issus du même thême, malédiction ! Alors je prends des heures à travailler le CSS et …</p>
+<p>Et c’est le coeur du problème : je ne publie rien tant que je ne suis pas satisfait de l’aspect graphique du site. Mon site est à l’abandon et en plus, j’ai maintenant l’angoisse inverse, je possède le nom de domaine et je n’en fais rien!</p>
+<p>Initialement sans relation entre les deux sujets, en janvier 2022 j’ai fait une petite expérience. J’ai voulu travailler ma discipline, sous la forme d’un exercice quotidien, simple et rapide, auquel m’astreindre pendant un an pour en faire un bilan en janvier 2023. Puisque j’aime les langues, je choisis d’en apprendre une nouvelle. Mon dévolu est jetté sur l’Allemand, sans autre raison que l’association mentale que je fais entre ce langage et les mathématiques/algorithmes (basé sur les on-dits du collège, quand j’ai choisi de faire de l’espagnol et qu’on me disait “l’allemand c’est un langage qui se construit comme des formules de maths”. Comme quoi, il en faut peu …).<br>
+Avec Duolingo, je fais 10-15 minutes d’exercices tous les jours et <strong>je m’y tiens</strong> !</p>
+<p>Fin 2022 je fais donc un bilan de ce succès :<br>
+- C’était plus facile que je le pensais<br>
+- C’est agréable et auto-valorisant de se voir tenir une discipline stricte - Je veux répéter ce genre d’expérience pour prendre d’autres habitudes - Je parle un peu Allemand, comme un collégien de fin de 3e probablement?</p>
+<p>Pour moi, la clef du succès de cette expérience c’est l’absence d’attentes. Mon seul objectif était de tenir le rythme quotidien, peu importe le temps passé, peu importe le rythme de progression. Au final, j’ai même sur la fin de l’année fait plutôt 20-25 min par jour, au delà de ma cible initiale, <em>car j’ai pris goût à ce rituel</em> !</p>
+<p>Ainsi, en 2023 je continue l’allemand, et j’ai introduit une nouvelle routine quodidienne. Pour ne pas risquer de tomber dans les travers décrits, je n’en parlerai que lorsque je m’y serait tenu 1 an. Toutefois, en accompagment, j’ai décidé de refaire mon site mais cette fois-ci de le publier tel quel, a peine sorti de son modèle. Si j’ai raison et que mes précédents échecs tiennent à un sur-investissement initial et un manque d’investissement dans la durée, alors j’espère que cette approche me permettra de prendre l’habitude d’écrire.</p>
+<p>Je n’ai pas d’objectif de thème pour ce site, ni de langue, ni de rythme de contenu. Je souhaite simplement venir régulièrement l’ouvrir et copier-coller des choses écrites ailleurs, et uniquement travailler sur les aspects graphiques quand j’en sentirai l’envie. Je suis absolument furieux de l’état du mode sombre, les choix d’images, certains ratios … mais tant pis. Ecrire, et surtout publier, c’est de toute façon prendre le risque d’exposer un produit imparfait à la critique d’inconnus. Il vaut mieux que ça sorte plutôt que pas du tout, et je compte sur la pression de savoir que le site est en ligne en l’état pour me motiver à venir l’améliorer régulièrement.</p>
+<p>Bilan dans 1 an !</p>
+<p>A bientôt,</p>
+<p>Raphaël</p>
+
+
+</section>
+
+ ]]></description>
+  <category>meta</category>
+  <guid>https://raphaelsimon.fr/blog/posts/20230115_nouveaudepart/index.html</guid>
+  <pubDate>Sat, 14 Jan 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://raphaelsimon.fr/blog/posts/20230115_nouveaudepart/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

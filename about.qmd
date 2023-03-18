@@ -1,6 +1,6 @@
 ---
 title: "Raphaël Simon"
-image: inst/img/raph.jpeg
+image: inst/img/avatar.jpg
 about:
   id: about-heading
   template: solana

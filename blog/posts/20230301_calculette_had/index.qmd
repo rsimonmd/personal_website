@@ -7,7 +7,7 @@ categories: [HAD, outils, serverless, R]
 image: "calculator.jpg"
 ---
 
-Lors de discussion avec une collègue, nous avons eu besoin d'avoir rapidement de nombreuses combinaisons de MPP MPA IK et d'observer leurs GHT, mais aussi l'inverse : à partir d'un GHT observer les combinaisons possibles de GHPC. 
+Lors de discussion avec une collègue, nous avons eu besoin d'avoir rapidement de nombreuses combinaisons de MPP MPA IK et d'observer leurs GHT, mais aussi l'inverse : à partir d'un GHT observer les combinaisons possibles de GHPC. Puisque ma collègue appelait cet outil une "calculette", j'ai gardé le nom !
 
 Les données sont entièrement en libre accès sur le site de l'ATIH :
 
