@@ -1,0 +1,26 @@
+---
+title: "Memoria ex Machina"
+subtitle: "Un lieu où je sors de ma tête n’importe quoi à propos de tout. <br> _Naviguez à vos risques et périls_"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: numbered
+  sort-ui: [date, author]
+  filter-ui: [title, date, author]
+  page-size: 10
+  image-align: left # utile uniquement pour type = default
+  date-format: "DD MMMM YYYY"
+  feed: true
+page-layout: full
+title-block-banner: true
+toc: false
+---
+
+
+
+### Des options de filtre, tri et langues permettent de trouver ce que vous cherchez. En théorie. <br>
+
+
+:::{#posts}
+:::

@@ -6,33 +6,12 @@ project:
    # - resume.pdf
    # - cv.pdf
 
-website:
-  title: "Hello"
-  description: "Data, financement et politiques en santé"
-  favicon: inst/img/astronaut.svg
-  open-graph: 
-    locale: en_US
-  twitter-card: 
-    creator: "@rplsmn"
-    # site: "@podcas"
-  site-url: https://raphaelsimon.fr
-  navbar:
-    right:
-      - href: blog.html
-        text: "Blog"
-      - about.qmd
+metadata-files:
+  - _website.yml
+  - _format.yml
+  - _variables.yml
 
-format:
-  html:
-    theme: 
-      dark: [cyborg, _variables-cyborg.scss, _bootswatch-cyborg.scss]
-      light: [simplex, _variables-simplex.scss, _bootswatch-simplex.scss]
-    css: styles.css
-    toc: true
-
-body-header: | 
-  Cette page est générée par <https://raphaelsimon.fr>
-#margin-header: |
-# ![](inst/img/raph.jpeg)
+execute:
+  freeze: auto
 
 

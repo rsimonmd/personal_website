@@ -1,10 +1,11 @@
 ---
-title: "A propos"
-image: inst/img/avatar.jpg
+title: "Raphaël Simon"
+image: inst/img/raph.jpeg
 about:
-  template: trestles
+  id: about-heading
+  template: solana
   image-shape: round
-  image-width: 20em
+  image-width: 15em
   links:
     - text: LinkedIn
       url: "https://www.linkedin.com/in/raphael-simon-5b1123111/"
@@ -15,18 +16,99 @@ about:
       icon: github
       url: "https://github.com/rsimonmd"
     - text: Email
-      url: "mailto:raphael.simon.contact+site@gmail.com"
-    - text: Blog
-      url: "blog.html"
-    - text: CV
-      url: "cv.pdf"
+      url: "mailto:raphael.simon.contact+about@gmail.com"
 comments: false
 ---
 
-::: {.column-page}
 
-## Bio
+:::{#about-heading}
 
-Médecin de santé publique, chef de projet classification et financement hospitalier.
+Je suis médecin de santé publique, spécialisé en économie et financement de la santé.
+<br>
+Ma discipline est l'exploitation de larges bases de données de santé (e.g: SNDS, PMSI) pour répondre à des objectifs variés :  
+- informer des politiques de santé  
+- élaborer des modèles de financement  
+- ou encore conduire des projet de recherche.  
+<br>
+Je vis en France, dans la belle ville de Lyon.
 
 :::
+
+_Ci-dessous quelques informations sur mon parcours et mon profil_
+<br>
+
+:::{.panel-tabset}
+
+# Expérience
+
+Actuellement chef de projet à l'ATIH, mes principaux projets concernent la réforme de classification en HAD et la révision du modèle de sévérité MCO-SSR.
+
+Je possède 7 ans d'expériences dans le milieu de la santé publique, notamment:  
+
+- Agence Technique de l'Information sur l'Hospitalisation (ATIH) - Pôle Classification et Modèles de Financement  
+- Centre International de Recheche sur le Cancer (CIRC) - Cancer Surveillance Unit  
+- EY Consulting Paris - Equipe Santé  
+- Hospices Civiles de Lyon (HCL) - Service d'Evaluation Economiques en Santé  
+- ARS Auvergne Rhône-Alpes - Service de Veille Sanitaire
+
+J'ai aussi accompagné, dans le cadre d'une activité de conseil individuelle, des clients publics et privés dans la réalisation de leurs projets, notamment :  
+
+- Design méthodologique et analyses biostatistiques d'un essai clinique pour un CHU  
+- Etude d'impact organisationnel hospitalier à l'introduction d'une thérapie de rupture pour un laboratoire pharmaceutique  
+- Rédaction de protocoles d'études scientifiques pour clients publics et privés  
+- Rédaction d'articles scientiques à but de publication dans une revue internationale pour clients publics et privés
+
+# Education
+
+- **Docteur en médecine**, spécialité Santé Publique - Université Claude Bernard Lyon 1  
+
+- **Master of Science**, International Health Policy - London School of Economics & Political Sciences  
+
+- **Master 1**, Epidémiologie, Biostatistiques et Modélisation  
+
+- **Langues** : 
+  - Français maternel
+  - Anglais bilingue (C2+)
+  - Italien & Espagnol autonome (B2)
+  - Allemand débutant
+
+# Compétences
+
+De l'expertise clinique/terrain aux techniciens jusqu'aux décideurs, mon parcours me permet de jouer le rôle d'interface/traducteur entre les parties prenantes dans la conduite de projets complexes en santé : 
+
+- Conduite de projets complexes mêlant politique, technique et expertise de terrain 
+- Elaboration de modèles de financement en santé, en particulier en milieu hospitalier et transchamps
+- Communication technique, scientifique et synthetique anglais/français  
+- Manipulation et transformation de données à fort volume (ETL, ELT)
+- Modélisation, analyse et restitution de données statiques et dynamique avec R, RShiny et Quarto
+- Traduction de programmes SAS vers R
+
+# Appétences
+
+Passionné par les sciences, l'informatique et les langues, j'aime apprendre et expérimenter.
+
+Avide lecteur, je confesse une faiblesse pour les romans fantastiques sombres comme [la Compagnie Noire](https://www.goodreads.com/book/show/140671.The_Black_Company) de Glen Cook ou les romans de [Joe Abercrombie](https://joeabercrombie.com/).
+
+Féru de sport, je pratique régulièrement la course à pied et le football, ainsi que le ski quand la saison le permet.
+
+En 2018 j'ai créé [Obvieapps](https://obvieapps.fr) avec Hugo Noëlle autour d'une application web d'accompagnement au choix de spécialité des étudiants en médecine ayant passé le concours de l'ínternat. Ce projet nous accompagne tous les ans depuis lors, et jusqu'à la fin de cette modalité de concours prévue pour l'année 2024.
+
+En 2023, je souhaite lancer mon propre podcast !
+
+# Publications
+
+- Li M, Meheus F, Polazzi S, Delafosse P, Borson-Chazot F, Seigneurin A, Simon R, Combes JD, Maso LD, Colonna M, Duclos A, Vaccarella S; Thyroid Cancer Group FRANCIM(a). The economic cost of thyroid cancer in France and the corresponding share associated with treatment of overdiagnosed cases. Value Health. 2023 Mar 13:S1098-3015(23)00097-9. doi: 10.1016/j.jval.2023.02.016. Epub ahead of print. PMID: 36921898. 
+
+- Li M, Delafosse P, Meheus F, Borson-Chazot F, Lifante JC, Simon R, Groclaude P, Combes JD, Dal Maso L, Polazzi S, Duclos A, Colonna M, Vaccarella S; Thyroid Cancer Group FRANCIM. Temporal and geographical variations of thyroid cancer incidence and mortality in France during 1986-2015: The impact of overdiagnosis. Cancer Epidemiol. 2021 Dec;75:102051. doi: 10.1016/j.canep.2021.102051. Epub 2021 Oct 29. PMID: 34743057.
+
+- Romano E, Simon R, Minard-Colin V, Martin V, Bockel S, Espenel S, Fresneau B, Metayer L, Levy A, Guerin F, Martelli H, Dumas I, Bolle S, Deutsch E, Haie-Meder C, Chargari C. Analysis of Radiation Dose/Volume Effect Relationship for Anorectal Morbidity in Children Treated for Pelvic Malignancies. Int J Radiat Oncol Biol Phys. 2021 Jan 1;109(1):231-241. doi: 10.1016/j.ijrobp.2020.08.033. Epub 2020 Aug 14. PMID: 32805302.
+
+- Pioger C, Bellity JP, Simon R, Rouillon O, Smith BJ, Nizard R. A Playtime and Handicap Analysis of 143 Regular Golfers After Total Knee Arthroplasty at Minimum 2-Year Follow-Up. J Arthroplasty. 2020 May;35(5):1257-1261. doi: 10.1016/j.arth.2020.01.005. Epub 2020 Jan 11. PMID: 32001082.
+
+:::
+<!-- 
+:::{.panel-tabset}
+
+
+
+::: -->

@@ -1,0 +1,12 @@
+date-format: "DD MMMM YYYY"
+lang: fr
+format:
+  html:
+    theme: 
+      light: [simplex, _variables-simplex.scss, _bootswatch-simplex.scss]
+      dark: [cyborg, _variables-cyborg.scss, _bootswatch-cyborg.scss]
+    css: styles.css
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+    

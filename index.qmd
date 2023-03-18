@@ -1,6 +1,60 @@
 ---
 title: "Raphael Simon"
-comments: false
+subtitle: "A l'interface entre les données et la santé"
+comments: False
+format:
+  html:
+    page-layout: full
+listing:
+  - id: latest-posts
+    contents: blog/posts
+    type: default
+    max-items: 3
+    sort: 
+      - "date desc"
+      - "title asc"
+about:
+  id: about-rsn
+  template: trestles
+  image: inst/img/thought.jpg
+  image-shape: round
+  image-width: 8em
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/raphael-simon-5b1123111/"
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/rplsmn"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/rsimonmd"
+    - text: Email
+      url: "mailto:raphael.simon.contact+about@gmail.com"
 ---
 
-Memory ex Machina
+:::{#about-rsn}
+
+Médecin curieux. Probablement un peu geek.
+
+Je n'arrêtais pas de recevoir le même conseil : écrire à propos de ses propres projets est vital car ça facilite la mémorisation, valorise le travail et permet de prendre du recul. <br><br>
+Alors voilà, une tentative maladroite de coucher des pensées désordonnées sur papier digital. Voyons où ça nous mène, n'est-ce pas ?
+
+Plus d'infos sur moi : [A propos](about.qmd)
+
+Contactez-moi via les liens ci-contre !
+:::
+
+:::::{.grid}
+::::{.g-col-12 .g-col-md-6}
+## Le blog
+Cliquez [ici](blog/index.qmd) pour lire les entrées du blog. 
+
+:::{#latest-posts}
+:::
+::::
+<!-- ::::{.g-col-12 .g-col-md-6}
+Du texte
+:::{#une autre liste}
+:::
+:::: -->
+:::::

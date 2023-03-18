@@ -1,0 +1,56 @@
+website:
+  title: "MEM"
+  description: "Financement, politiques de santé, data et R"
+  site-url: https://raphaelsimon.fr
+  favicon: inst/img/quill.svg
+  navbar:
+    pinned: true
+    right:
+      - href: index.qmd
+        icon: house
+        text: 'Accueil'
+      - href: blog/index.qmd
+        icon: book
+        text: "Blog"
+      - href: about.qmd
+        icon: file-person
+        text: "A propos"
+      - icon: twitter
+        href: https://twitter.com/rplsmn
+      - icon: linkedin
+        href: https://www.linkedin.com/in/raphael-simon-5b1123111/
+  page-footer:
+    left: "Site version 0.1.0 | Made with Quarto with lots of online help :-)"
+    center: "Raphaël Simon 2023© "
+    right:
+      - text: "License"
+        href: license.qmd
+      - icon: envelope
+        href: mailto:raphael.simon.contact+site@gmail.com
+      - icon: twitter
+        href: https://twitter.com/RplSmn
+      - icon: github
+        href: https://github.com/rsimonmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/raphael-simon-5b1123111/
+  # open-graph:
+  #   description: "Memory ex Machina"
+  #   image: astronaut.svg
+  # twitter-card:
+  #   title: "Raphael Simon"
+  #   description: "Memory ex Machina"
+  #   image: astronaut.svg
+  #   card-style: summary_large_image
+  #   creator: "@RplSmn"
+  #   site: "@RplSmn"
+  # comments:
+  #   giscus:
+  #     repo: 
+  #     repo-id: 
+  #     category: Giscus Comments
+  #     category-id: 
+  #     mapping: title
+  #     reactions-enabled: true
+  #     loading: lazy
+  #     input-position: top
+  #     theme: light

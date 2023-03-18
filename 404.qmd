@@ -1,0 +1,13 @@
+---
+title: 👀
+subtitle: La page que vous cherchez ne semble pas exister sur ce site 😕
+description: Ou alors j'ai un trou de mémoire
+toc: false
+comments: false
+---
+
+<!-- I have disabled comments since for some reason, ths page displays the incorrect comment section. It was previously displaying the comment section relating to using PyTorch with Mac GPUs. -->
+
+<!-- _Alternatively_, head on over to the [ForBlog](forblog/index.qmd), play in the [App Playground](web_apps/index.qmd), or you know, head to home sweet [home](index.qmd). -->
+
+Aller, on retourne à [l'accueil](index.qmd) ?

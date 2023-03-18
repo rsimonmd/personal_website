@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://raphaelsimon.fr/index.html</loc>
-    <lastmod>2023-03-16T08:17:27.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://raphaelsimon.fr/blog.html</loc>
-    <lastmod>2023-03-16T08:19:02.154Z</lastmod>
-  </url>
-  <url>
     <loc>https://raphaelsimon.fr/about.html</loc>
-    <lastmod>2023-03-16T08:44:54.765Z</lastmod>
+    <lastmod>2023-03-18T14:35:34.281Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raphaelsimon.fr/blog/index.html</loc>
+    <lastmod>2023-03-18T14:41:54.476Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raphaelsimon.fr/blog/posts/20230301_calculette_had/index.html</loc>
+    <lastmod>2023-03-18T10:25:13.751Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raphaelsimon.fr/index.html</loc>
+    <lastmod>2023-03-18T14:46:20.572Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raphaelsimon.fr/licence.html</loc>
+    <lastmod>2023-03-18T14:42:21.906Z</lastmod>
   </url>
 </urlset>
