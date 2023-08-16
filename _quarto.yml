@@ -11,5 +11,10 @@ metadata-files:
   - _format.yml
   - _variables.yml
 
+profile:
+  group:
+    - [fr, en]
+
+
 execute:
   freeze: auto

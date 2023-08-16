@@ -17,10 +17,7 @@ title-block-banner: true
 toc: false
 ---
 
-
-
 ### Des options de filtre, tri et langues permettent de trouver ce que vous cherchez. En théorie. <br>
-
 
 :::{#posts}
 :::

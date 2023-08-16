@@ -1,7 +1,7 @@
 ---
 title: "Raphael Simon"
 subtitle: "A l'interface entre les données et la santé"
-comments: False
+comments: false
 format:
   html:
     page-layout: full
