@@ -4,7 +4,7 @@ description: "If you like progression fantasy, you're going to enjoy bashing you
 date: "2023-08-16"
 date-modified: last-modified
 categories: [programming, musings, random]
-lang: en
+draft: true
 image: "wizard.png"
 ---
 
